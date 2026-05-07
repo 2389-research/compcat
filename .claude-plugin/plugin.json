@@ -1,0 +1,5 @@
+{
+  "name": "compcat",
+  "description": "Catches /compcat (the typo of /compact) and shows you a COMPuter CAT before nudging you to the real command",
+  "version": "1.0.0"
+}

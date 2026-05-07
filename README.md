@@ -18,8 +18,8 @@ A Claude Code skill that intercepts `/compcat` — the inevitable typo of `/comp
 ## install
 
 ```bash
-/plugin marketplace add 2389-research/claude-plugins
-/plugin install compcat@2389-research
+/plugin marketplace add 2389-research/compcat
+/plugin install compcat@compcat
 ```
 
 Then, the next time your fingers betray you, `/compcat` will summon the cat instead of failing silently.
