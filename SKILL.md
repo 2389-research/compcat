@@ -25,12 +25,12 @@ description: Use when the user invokes /compcat — almost certainly a typo of /
 Output the block below, with no preamble and no follow-up. The cat is the whole response.
 
 ```
-  __________________      |\---/|
- |  ______________  |     | o.o |
- | | $ /compact_  | |      \_=_/-..----.
- | |______________| |   ___/ `   ' ,""+ \
- |__________________| ((__...'   __\    |`.___.'
-   \______________/
+  _________________      |\---/|
+ |  _____________  |     | o.o |
+ | | $ /compact_ | |      \_=_/-..----.
+ | |_____________| |   ___/ `   ' ,""+ \
+ |_________________| ((__...'   __\    |`.___.'
+   \_____________/
 
 looks like you're trying to compact, but instead you've summoned the computer cat!
 <CAT_QUIP>
