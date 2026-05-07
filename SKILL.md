@@ -22,21 +22,29 @@ description: Use when the user invokes /compcat — almost certainly a typo of /
 
 ## What to Output
 
-Output the block below, with no preamble and no follow-up. The cat is the whole response. Two text lines sit beside the art:
-
-- **Line 1 (the cat's quip)** — pick a different one each invocation. See the bank below or riff your own in the same spirit.
-- **Line 2 (the close)** — always exactly: `type /compact and press enter — i'll be right here, purring`
+Output the block below, with no preamble and no follow-up. The cat is the whole response.
 
 ```
-  ____________________      |\---/|
- |  ________________  |     | o.o |              <CAT_QUIP>
- | | $ /compact_    | |      \_=_/-..----.       type /compact and press enter — i'll be right here, purring
- | |________________| |   ___/ `   ' ,""+ \
- |____________________| ((__...'   __\    |`.___.'
-   \________________/
+  __________________      |\---/|
+ |  ______________  |     | o.o |
+ | | $ /compact_  | |      \_=_/-..----.
+ | |______________| |   ___/ `   ' ,""+ \
+ |__________________| ((__...'   __\    |`.___.'
+   \______________/
+
+looks like you're trying to compact, but instead you've summoned the computer cat!
+<CAT_QUIP>
+
+type /compact and press enter — i'll be right here, purring
 ```
 
 (Cat after "sk" on asciiart.eu — the classic loaf-with-paws form.)
+
+Three text segments sit below the art:
+
+- **Framing line** (always exactly): `looks like you're trying to compact, but instead you've summoned the computer cat!` — makes it clear this was a typo, not a feature.
+- **Cat quip** — fresh each invocation, in the cat's voice. See "Writing the Quip" below.
+- **Close line** (always exactly, after a blank line): `type /compact and press enter — i'll be right here, purring`
 
 Then stop. No "let me know if…", no apology for the cat, no offer to help with something else. The cat has spoken.
 
